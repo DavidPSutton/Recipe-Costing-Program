@@ -1,2 +1,12 @@
 # Recipe Costing Program
-An Excel built program for Recipe Scaling and Cost Analysis
+
+## Overview
+
+## Development
+
+## Operation
+
+### Adding ingredients
+### Creating a Recipe
+### Adjusting Scale
+### Costing
